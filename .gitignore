@@ -44,3 +44,4 @@ ENV/
 /data
 *.log
 *.ini
+!tox.ini

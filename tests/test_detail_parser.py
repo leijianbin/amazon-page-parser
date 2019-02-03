@@ -167,7 +167,7 @@ def shared_context():
                 'Wrinkle Resistant: Chair Slipcovers can secure fit with sewn-in elastic hem and cover your chairs quickly, bring a new face to your chair.',
                 'Machine wash separately. Do not bleach. Tumble dry low. Not Ironing. Dining Chair Slipcover is fadeless and pilling resistance for long-lasting durability.',
                 'Applicable Occasions: Chair covers are stylish and elegant design, it is perfect for home decor kitchen, bedroom, living room, office or meeting room, hotel, wedding banquet, celebration and ceremony.',
-                "Size: Chair-back height 18-24'' and chair-back width 15-19''. Chair seat width and length 15-19'' and thickness 1.5-4''. If you have any issue with chair cover, do not hesitate to contact us as your satisfaction is the most important. We’ll take care of you with a full refund or exchange."
+                u"Size: Chair-back height 18-24'' and chair-back width 15-19''. Chair seat width and length 15-19'' and thickness 1.5-4''. If you have any issue with chair cover, do not hesitate to contact us as your satisfaction is the most important. We’ll take care of you with a full refund or exchange."
             ],
             'book_description': "",
             'product_description': '',
@@ -183,7 +183,7 @@ def shared_context():
             'star': 4.5,
             'reviews': 105,
             'rank': 25654,
-            'categories': "Home & Kitchen>Home Décor>Slipcovers>Dining Chair Slipcovers;Home & Kitchen>Kitchen & Dining>Food Service Equipment & Supplies",
+            'categories': u"Home & Kitchen>Home Décor>Slipcovers>Dining Chair Slipcovers;Home & Kitchen>Kitchen & Dining>Food Service Equipment & Supplies",
             'details': {
                 "Package Dimensions": "6.5 x 4.1 x 2.6 inches",
                 "Item Weight": "4.2 ounces",
